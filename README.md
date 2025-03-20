@@ -1,6 +1,6 @@
 #  Laboratorio de Programación Avanzada 2024 ⌨️
 
-⬇️  Para descargar los archivos: `git clone https://github.com/dottox/lab-pa` en la carpeta que quieras tenerlos
+⬇️  Para descargar los archivos: `git clone https://github.com/dottox/lab-pavz-2024` en la carpeta que quieras tenerlos
 
 👤 Miembros del grupo: dottox, zarsu, goncho09 y mateo (sin github)
 
